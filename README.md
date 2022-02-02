@@ -1,4 +1,4 @@
-## Oiii eu sou o Rafael, desenvolvedor Full stack developer!
+## Olá eu sou o Rafael, desenvolvedor Full stack developer!
 <div align="center">
   <a href="https://github.com/RafaelGCampi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelGCampi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
